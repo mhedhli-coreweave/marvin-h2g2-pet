@@ -4,66 +4,72 @@
       "file": "00.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
         52,
-        29,
+        35,
         138,
-        204
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": 1,
       "bounds": [
         52,
-        29,
-        138,
-        204
+        30,
+        141,
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
         52,
-        30,
-        138,
-        204
+        42,
+        139,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": -1,
       "bounds": [
         52,
-        32,
-        138,
-        204
+        43,
+        140,
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
         52,
-        29,
+        35,
         138,
-        204
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
         52,
-        29,
+        35,
         138,
-        204
+        203
       ]
     }
   ],
@@ -72,21 +78,23 @@
       "file": "00.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        51,
-        32,
-        140,
-        204
+        37,
+        31,
+        152,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        52,
-        39,
-        138,
+        38,
+        31,
+        151,
         203
       ]
     },
@@ -94,10 +102,11 @@
       "file": "02.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        52,
+        44,
         32,
-        138,
+        146,
         203
       ]
     },
@@ -105,21 +114,23 @@
       "file": "03.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        52,
-        29,
-        138,
-        204
+        37,
+        32,
+        154,
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        51,
-        29,
-        140,
+        42,
+        32,
+        148,
         203
       ]
     },
@@ -127,10 +138,11 @@
       "file": "05.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        53,
-        39,
-        138,
+        45,
+        34,
+        145,
         203
       ]
     },
@@ -138,10 +150,11 @@
       "file": "06.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        53,
-        32,
-        138,
+        39,
+        31,
+        151,
         203
       ]
     },
@@ -149,10 +162,11 @@
       "file": "07.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        52,
-        29,
-        139,
+        40,
+        31,
+        150,
         203
       ]
     }
@@ -162,21 +176,23 @@
       "file": "00.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        50,
-        31,
-        140,
-        204
+        36,
+        30,
+        155,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        51,
-        42,
-        139,
+        37,
+        31,
+        154,
         203
       ]
     },
@@ -184,21 +200,23 @@
       "file": "02.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        54,
-        33,
-        136,
-        202
+        41,
+        30,
+        149,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        51,
-        29,
-        140,
+        35,
+        30,
+        156,
         203
       ]
     },
@@ -206,21 +224,23 @@
       "file": "04.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        50,
-        29,
-        140,
-        204
+        36,
+        31,
+        155,
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        51,
-        42,
-        138,
+        40,
+        31,
+        151,
         203
       ]
     },
@@ -228,10 +248,11 @@
       "file": "06.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        55,
-        32,
-        135,
+        36,
+        30,
+        155,
         203
       ]
     },
@@ -239,10 +260,11 @@
       "file": "07.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 1,
       "bounds": [
-        50,
-        32,
-        140,
+        37,
+        31,
+        154,
         203
       ]
     }
@@ -251,45 +273,49 @@
     {
       "file": "00.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": -10,
+      "ground_shift_y": -1,
       "bounds": [
-        53,
-        30,
-        138,
-        204
+        32,
+        28,
+        139,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -8,
+      "foot_anchor_shift_x": -13,
+      "ground_shift_y": -1,
       "bounds": [
-        36,
-        30,
-        138,
-        204
+        25,
+        28,
+        140,
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -9,
+      "foot_anchor_shift_x": -13,
+      "ground_shift_y": -1,
       "bounds": [
-        30,
-        29,
-        143,
-        204
+        24,
+        28,
+        141,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -8,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": -1,
       "bounds": [
-        38,
-        30,
-        137,
-        204
+        52,
+        28,
+        139,
+        203
       ]
     }
   ],
@@ -298,54 +324,59 @@
       "file": "00.png",
       "shared_scale": 1.0,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        48,
-        38,
-        144,
+        50,
+        36,
+        141,
         203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 1.0,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": 0,
       "bounds": [
-        50,
-        15,
-        141,
-        187
+        42,
+        19,
+        152,
+        191
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 1.0,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        50,
+        41,
         5,
-        138,
-        171
+        151,
+        175
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 1.0,
-      "foot_anchor_shift_x": -1,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        50,
-        14,
-        140,
-        184
+        44,
+        19,
+        148,
+        189
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 1.0,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        49,
-        36,
-        143,
+        50,
+        38,
+        141,
         203
       ]
     }
@@ -354,89 +385,97 @@
     {
       "file": "00.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -1,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        50,
+        53,
         31,
-        138,
-        204
+        137,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        48,
-        31,
+        52,
+        29,
         138,
-        204
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -4,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        44,
-        29,
+        52,
+        31,
         138,
-        204
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -4,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        44,
-        37,
+        52,
+        46,
         138,
-        204
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        41,
-        47,
-        136,
-        204
+        52,
+        50,
+        138,
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -4,
+      "foot_anchor_shift_x": -1,
+      "ground_shift_y": 0,
       "bounds": [
-        43,
-        35,
-        139,
-        204
+        51,
+        56,
+        136,
+        203
       ]
     },
     {
       "file": "06.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -3,
+      "foot_anchor_shift_x": -2,
+      "ground_shift_y": -1,
       "bounds": [
-        47,
-        33,
+        49,
+        42,
         137,
-        204
+        203
       ]
     },
     {
       "file": "07.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -1,
+      "foot_anchor_shift_x": 0,
+      "ground_shift_y": -1,
       "bounds": [
-        50,
-        31,
-        138,
-        204
+        53,
+        36,
+        137,
+        203
       ]
     }
   ],
@@ -445,66 +484,72 @@
       "file": "00.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": 0,
       "bounds": [
-        53,
-        30,
-        138,
-        204
+        52,
+        31,
+        139,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
       "foot_anchor_shift_x": 0,
+      "ground_shift_y": -1,
       "bounds": [
-        43,
-        30,
-        148,
-        204
+        24,
+        29,
+        167,
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 3,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": 0,
       "bounds": [
-        42,
-        30,
-        155,
-        204
+        25,
+        29,
+        167,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 3,
+      "foot_anchor_shift_x": 2,
+      "ground_shift_y": 0,
       "bounds": [
-        41,
+        26,
         29,
-        156,
-        204
+        168,
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 1,
+      "foot_anchor_shift_x": -8,
+      "ground_shift_y": 0,
       "bounds": [
-        49,
-        30,
-        144,
-        204
+        33,
+        31,
+        141,
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": -2,
+      "ground_shift_y": -1,
       "bounds": [
-        53,
+        50,
         30,
-        138,
-        204
+        136,
+        203
       ]
     }
   ],
@@ -512,67 +557,73 @@
     {
       "file": "00.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": -7,
+      "ground_shift_y": -1,
       "bounds": [
-        39,
-        29,
-        139,
-        204
+        35,
+        28,
+        142,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": -8,
+      "ground_shift_y": -1,
       "bounds": [
-        40,
-        32,
-        138,
-        204
+        35,
+        29,
+        140,
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": -9,
+      "ground_shift_y": -1,
       "bounds": [
-        39,
         34,
-        139,
-        204
+        30,
+        138,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -7,
+      "foot_anchor_shift_x": -9,
+      "ground_shift_y": -1,
       "bounds": [
-        39,
-        30,
-        137,
-        204
+        34,
+        31,
+        139,
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": -10,
+      "ground_shift_y": -1,
       "bounds": [
-        40,
-        30,
-        137,
-        204
+        33,
+        29,
+        138,
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -7,
+      "foot_anchor_shift_x": -8,
+      "ground_shift_y": -1,
       "bounds": [
-        38,
+        33,
         29,
-        138,
-        204
+        142,
+        203
       ]
     }
   ],
@@ -580,67 +631,73 @@
     {
       "file": "00.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": 0,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": -1,
       "bounds": [
-        51,
-        30,
-        140,
-        204
+        52,
+        28,
+        141,
+        203
       ]
     },
     {
       "file": "01.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 7,
+      "ground_shift_y": -1,
       "bounds": [
-        49,
-        29,
-        138,
-        204
+        52,
+        28,
+        153,
+        203
       ]
     },
     {
       "file": "02.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 8,
+      "ground_shift_y": -1,
       "bounds": [
-        49,
-        30,
-        138,
-        204
+        52,
+        28,
+        155,
+        203
       ]
     },
     {
       "file": "03.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -6,
+      "foot_anchor_shift_x": 5,
+      "ground_shift_y": -1,
       "bounds": [
-        41,
-        29,
-        138,
-        204
+        46,
+        28,
+        155,
+        203
       ]
     },
     {
       "file": "04.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 8,
+      "ground_shift_y": -1,
       "bounds": [
-        49,
-        31,
-        138,
-        204
+        52,
+        28,
+        155,
+        203
       ]
     },
     {
       "file": "05.png",
       "shared_scale": 0.87,
-      "foot_anchor_shift_x": -2,
+      "foot_anchor_shift_x": 1,
+      "ground_shift_y": -1,
       "bounds": [
-        49,
-        29,
-        138,
-        204
+        52,
+        28,
+        141,
+        203
       ]
     }
   ]

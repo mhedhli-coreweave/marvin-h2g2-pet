@@ -1,18 +1,19 @@
 {
   "ok": true,
-  "review_type": "visual review plus bundled frame inspection",
+  "review_type": "Source strips, final transparent previews, frame inspection, and desktop/mobile preview",
   "states": {
-    "idle": "Six poses form a small head/shoulder sag and recovery with planted feet.",
-    "running-right": "Eight screen-right poses alternate contacts and passing feet; head bobs with weight.",
-    "running-left": "Separately generated left-facing gait retains screen-fixed lighting and alternating legs.",
-    "waving": "Four connected hand poses show reluctant raise, wrist tilt, and lowering; foot anchoring corrects silhouette centering.",
-    "jumping": "Five poses preserve source vertical displacement. Crouch and landing share floor; both feet clearly lift at apex.",
-    "failed": "Eight poses rise into a connected-hand facepalm and deep bow, then recover.",
-    "waiting": "Six poses open palms at waist and tilt the head questioningly, without a wave.",
-    "running": "Six stationary thinking poses keep a finger at temple while the opposite hand counts near chest.",
-    "review": "Six poses point across imagined work and nod, distinct from facepalm and temple-touch."
+    "idle": "Heavy inhale and sag, two consecutive dark-eye frames, reluctant relight; planted feet.",
+    "running-right": "Heel-first screen-right trudge, limp arms, alternating gait and two dark-eye frames.",
+    "running-left": "Independently generated left trudge with screen-fixed lighting and two dark-eye frames.",
+    "waving": "Half acknowledgment becomes a dismissive palm rotation and limp wrist, then arm drops; dark eyes held.",
+    "jumping": "Deep crouch, brief reluctant hop with dark eyes at apex/descent, heavy landing; both feet rise.",
+    "failed": "Both palms cover forehead/visor; double facepalm held across frames 2-5 with bowed head and knees; hands release before relight.",
+    "waiting": "Broad palms-up shrug, raised elbows, two head tilts and dark eyes; one palm waits before arms drop.",
+    "running": "Head sags into temple hand, opposite hand taps/counts impatiently near chest, two dark-eye frames.",
+    "review": "Slow index point, held through frames 1-4, narrow green lenses, alternating head yaw right-left-right in frames 2-4; lights off as arm lowers in frame 5."
   },
-  "registration": "Shared 0.87 scale for non-jump rows about floor y=203, native extracted jump row preserves airborne headroom; planted-foot midpoint anchors stationary rows.",
-  "observed_previews": "Bundled per-state GIFs, standard contact sheet, and interactive local preview with hop frame stepping and gesture playback.",
-  "remaining_cleanup": "Final atlas will receive one edge-local magenta despill pass."
+  "frame_indexing": "zero-based",
+  "registration": "Shared 0.87 scale for non-jump rows, native extracted jump displacement; planted-foot midpoint anchors stationary rows.",
+  "cleanup": "Final sheet received one chroma-edge cleanup pass; preserved look cells match original final pixels.",
+  "blind_review_followup": "Vertical pair 6 was reinspected by all three reviewers as an isolated crop after the tall sheet appeared blank to them; all independently confirmed up/down. Four unchanged near-vertical horizontal ambiguities were reviewed in the full arc."
 }

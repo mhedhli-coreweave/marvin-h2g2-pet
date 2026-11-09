@@ -7,7 +7,7 @@ from pathlib import Path
 from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]/'scripts'))
-from pet_assets import ROOT, build_from_frames, load_manifest, validate_image
+from pet_assets import ROOT, build_from_frames, load_manifest, load_variant, validate_image
 
 class AssetTests(unittest.TestCase):
     @classmethod
@@ -15,9 +15,22 @@ class AssetTests(unittest.TestCase):
         cls.manifest = load_manifest()
 
     def test_frames_reproduce_published_pixels(self):
-        rebuilt = build_from_frames(self.manifest)
-        with Image.open(ROOT/self.manifest['spritesheet']) as saved:
-            self.assertEqual(rebuilt.tobytes(), saved.tobytes())
+        for variant in ('angst', 'original'):
+            with self.subTest(variant=variant):
+                manifest = load_variant(variant)
+                rebuilt = build_from_frames(manifest)
+                with Image.open(ROOT/manifest['spritesheet']) as saved:
+                    self.assertEqual(rebuilt.tobytes(), saved.tobytes())
+
+    def test_update_preserves_approved_look_directions(self):
+        updated = build_from_frames(load_variant('angst'))
+        original = build_from_frames(load_variant('original'))
+        self.assertEqual(updated.crop((0,1872,1536,2288)).tobytes(),
+                         original.crop((0,1872,1536,2288)).tobytes())
+
+    def test_rejects_unknown_variant(self):
+        with self.assertRaisesRegex(ValueError, 'Unknown animation variant'):
+            load_variant('missing')
 
     def test_rejects_unused_cell_artwork(self):
         atlas = build_from_frames(self.manifest)

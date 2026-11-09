@@ -1,7 +1,9 @@
 {
-  "spritesheet_sha256": "c35ded29cd2abb1940fb258180357129ce4d7ee5e9f9df1513753639afe8cc55",
+  "spritesheet_sha256": "2b00105496facfcafcd4a34c0dd9b482b6260bc20889fba3e42944750f26a110",
+  "original_spritesheet_sha256": "c35ded29cd2abb1940fb258180357129ce4d7ee5e9f9df1513753639afe8cc55",
   "width": 1536,
   "height": 2288,
   "populated_frames": 73,
-  "unused_transparent_cells": 15
+  "unused_transparent_cells": 15,
+  "look_direction_pixels_preserved": true
 }

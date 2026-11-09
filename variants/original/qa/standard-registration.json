@@ -1,0 +1,647 @@
+{
+  "idle": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        30,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        32,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        138,
+        204
+      ]
+    }
+  ],
+  "running-right": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        32,
+        140,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        39,
+        138,
+        203
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        32,
+        138,
+        203
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        29,
+        140,
+        203
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        53,
+        39,
+        138,
+        203
+      ]
+    },
+    {
+      "file": "06.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        53,
+        32,
+        138,
+        203
+      ]
+    },
+    {
+      "file": "07.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        52,
+        29,
+        139,
+        203
+      ]
+    }
+  ],
+  "running-left": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        50,
+        31,
+        140,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        42,
+        139,
+        203
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        54,
+        33,
+        136,
+        202
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        29,
+        140,
+        203
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        50,
+        29,
+        140,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        42,
+        138,
+        203
+      ]
+    },
+    {
+      "file": "06.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        55,
+        32,
+        135,
+        203
+      ]
+    },
+    {
+      "file": "07.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        50,
+        32,
+        140,
+        203
+      ]
+    }
+  ],
+  "waving": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        53,
+        30,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -8,
+      "bounds": [
+        36,
+        30,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -9,
+      "bounds": [
+        30,
+        29,
+        143,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -8,
+      "bounds": [
+        38,
+        30,
+        137,
+        204
+      ]
+    }
+  ],
+  "jumping": [
+    {
+      "file": "00.png",
+      "shared_scale": 1.0,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        48,
+        38,
+        144,
+        203
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 1.0,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        50,
+        15,
+        141,
+        187
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 1.0,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        50,
+        5,
+        138,
+        171
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 1.0,
+      "foot_anchor_shift_x": -1,
+      "bounds": [
+        50,
+        14,
+        140,
+        184
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 1.0,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        49,
+        36,
+        143,
+        203
+      ]
+    }
+  ],
+  "failed": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -1,
+      "bounds": [
+        50,
+        31,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        48,
+        31,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -4,
+      "bounds": [
+        44,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -4,
+      "bounds": [
+        44,
+        37,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        41,
+        47,
+        136,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -4,
+      "bounds": [
+        43,
+        35,
+        139,
+        204
+      ]
+    },
+    {
+      "file": "06.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -3,
+      "bounds": [
+        47,
+        33,
+        137,
+        204
+      ]
+    },
+    {
+      "file": "07.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -1,
+      "bounds": [
+        50,
+        31,
+        138,
+        204
+      ]
+    }
+  ],
+  "waiting": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        53,
+        30,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        43,
+        30,
+        148,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 3,
+      "bounds": [
+        42,
+        30,
+        155,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 3,
+      "bounds": [
+        41,
+        29,
+        156,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 1,
+      "bounds": [
+        49,
+        30,
+        144,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        53,
+        30,
+        138,
+        204
+      ]
+    }
+  ],
+  "running": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        39,
+        29,
+        139,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        40,
+        32,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        39,
+        34,
+        139,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -7,
+      "bounds": [
+        39,
+        30,
+        137,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        40,
+        30,
+        137,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -7,
+      "bounds": [
+        38,
+        29,
+        138,
+        204
+      ]
+    }
+  ],
+  "review": [
+    {
+      "file": "00.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": 0,
+      "bounds": [
+        51,
+        30,
+        140,
+        204
+      ]
+    },
+    {
+      "file": "01.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        49,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "02.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        49,
+        30,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "03.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -6,
+      "bounds": [
+        41,
+        29,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "04.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        49,
+        31,
+        138,
+        204
+      ]
+    },
+    {
+      "file": "05.png",
+      "shared_scale": 0.87,
+      "foot_anchor_shift_x": -2,
+      "bounds": [
+        49,
+        29,
+        138,
+        204
+      ]
+    }
+  ]
+}

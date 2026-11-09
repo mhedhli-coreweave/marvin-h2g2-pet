@@ -1,0 +1,134 @@
+{
+  "idle": {
+    "lit_green_pixels_by_frame": [
+      162,
+      182,
+      0,
+      0,
+      163,
+      166
+    ],
+    "dark_frames": [
+      2,
+      3
+    ]
+  },
+  "running-right": {
+    "lit_green_pixels_by_frame": [
+      79,
+      70,
+      67,
+      0,
+      0,
+      71,
+      78,
+      77
+    ],
+    "dark_frames": [
+      3,
+      4
+    ]
+  },
+  "running-left": {
+    "lit_green_pixels_by_frame": [
+      58,
+      72,
+      70,
+      0,
+      0,
+      69,
+      86,
+      78
+    ],
+    "dark_frames": [
+      3,
+      4
+    ]
+  },
+  "waving": {
+    "lit_green_pixels_by_frame": [
+      91,
+      0,
+      0,
+      93
+    ],
+    "dark_frames": [
+      1,
+      2
+    ]
+  },
+  "jumping": {
+    "lit_green_pixels_by_frame": [
+      83,
+      84,
+      0,
+      0,
+      74
+    ],
+    "dark_frames": [
+      2,
+      3
+    ]
+  },
+  "failed": {
+    "lit_green_pixels_by_frame": [
+      125,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      111
+    ],
+    "dark_frames": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "waiting": {
+    "lit_green_pixels_by_frame": [
+      98,
+      100,
+      0,
+      0,
+      100,
+      97
+    ],
+    "dark_frames": [
+      2,
+      3
+    ]
+  },
+  "running": {
+    "lit_green_pixels_by_frame": [
+      119,
+      94,
+      0,
+      0,
+      86,
+      107
+    ],
+    "dark_frames": [
+      2,
+      3
+    ]
+  },
+  "review": {
+    "lit_green_pixels_by_frame": [
+      109,
+      54,
+      26,
+      27,
+      19,
+      0
+    ],
+    "dark_frames": [
+      5
+    ]
+  }
+}

@@ -1,22 +1,22 @@
 {
   "ok": true,
   "atlas": "source-workflow/final/spritesheet-extended.png",
-  "encoded_bytes": 1990118,
-  "sha256": "c35ded29cd2abb1940fb258180357129ce4d7ee5e9f9df1513753639afe8cc55",
+  "encoded_bytes": 2034226,
+  "sha256": "2b00105496facfcafcd4a34c0dd9b482b6260bc20889fba3e42944750f26a110",
   "jump": {
-    "idle_baseline": 202,
+    "idle_baseline": 201,
     "jump_baselines": [
       202,
-      185,
-      169,
-      181,
+      189,
+      173,
+      187,
       202
     ],
-    "airborne_lift_pixels": 33,
-    "landing_delta_pixels": 0
+    "airborne_lift_pixels": 29,
+    "landing_delta_pixels": 1
   },
   "look_registration": {
-    "neutral_center_x": 94.5,
+    "neutral_center_x": 95.0,
     "look_centers_x": [
       94.5,
       95.5,

@@ -1,0 +1,19 @@
+{
+  "desktop": true,
+  "mobile_width": 390,
+  "variants": [
+    "angst",
+    "original"
+  ],
+  "checks": [
+    "variant-specific sprite and caption",
+    "variant-specific download link",
+    "playback and pause",
+    "frame stepping",
+    "review opposing head turns and lights off",
+    "mobile double facepalm",
+    "keyboard right direction",
+    "variant switch exits look mode"
+  ],
+  "console_warnings_or_errors": []
+}

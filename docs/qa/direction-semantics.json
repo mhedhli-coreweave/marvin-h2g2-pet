@@ -105,5 +105,12 @@
     "ok": true,
     "cardinals": "All four unanimously clear",
     "reviewed_limitation": "Near-vertical horizontal yaw is subtle at 022.5,157.5,202.5,337.5. No wrong-quadrant pose or reversal observed in full loop."
+  },
+  "preservation_verification": {
+    "pixels_identical_to_prior_stored_sheet": true,
+    "look_rows": [
+      9,
+      10
+    ]
   }
 }

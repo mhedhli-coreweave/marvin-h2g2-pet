@@ -4,7 +4,7 @@ import argparse
 import subprocess
 from pathlib import Path
 from PIL import Image, ImageDraw
-from pet_assets import (ROOT, build_from_frames, fail_cleanly, load_manifest)
+from pet_assets import (ROOT, build_from_frames, fail_cleanly, load_variant)
 
 
 def display_frame(cell, label=None):
@@ -22,12 +22,13 @@ def save_gif(frames, durations, path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--variant", choices=("angst", "original"), default="angst")
     parser.add_argument("--output-dir", type=Path)
     parser.add_argument("--mp4", action="store_true")
     args = parser.parse_args()
-    manifest = load_manifest()
+    manifest = load_variant(args.variant)
     atlas = build_from_frames(manifest)
-    out = args.output_dir or ROOT/"build/previews"
+    out = args.output_dir or ROOT/"build/previews"/args.variant
     out.mkdir(parents=True, exist_ok=True)
     all_frames, all_durations, look_frames = [], [], []
     for row in manifest["rows"]:

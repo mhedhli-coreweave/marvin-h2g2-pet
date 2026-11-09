@@ -66,15 +66,15 @@
       "axis": "horizontal",
       "gate": "hard",
       "A": {
-        "observed": "screen-right",
-        "expected": "screen-right",
-        "source_direction": "090",
-        "pass": true
-      },
-      "B": {
         "observed": "screen-left",
         "expected": "screen-left",
         "source_direction": "270",
+        "pass": true
+      },
+      "B": {
+        "observed": "screen-right",
+        "expected": "screen-right",
+        "source_direction": "090",
         "pass": true
       }
     },
@@ -118,14 +118,14 @@
       "gate": "review",
       "A": {
         "observed": "ambiguous",
-        "expected": "screen-left",
-        "source_direction": "202.5",
+        "expected": "screen-right",
+        "source_direction": "157.5",
         "pass": false
       },
       "B": {
         "observed": "ambiguous",
-        "expected": "screen-right",
-        "source_direction": "157.5",
+        "expected": "screen-left",
+        "source_direction": "202.5",
         "pass": false
       }
     },
@@ -185,15 +185,15 @@
       "axis": "vertical",
       "gate": "review",
       "A": {
-        "observed": "up",
-        "expected": "up",
-        "source_direction": "067.5",
-        "pass": true
-      },
-      "B": {
         "observed": "down",
         "expected": "down",
         "source_direction": "112.5",
+        "pass": true
+      },
+      "B": {
+        "observed": "up",
+        "expected": "up",
+        "source_direction": "067.5",
         "pass": true
       }
     },
@@ -202,15 +202,15 @@
       "axis": "vertical",
       "gate": "review",
       "A": {
-        "observed": "up",
-        "expected": "up",
-        "source_direction": "337.5",
-        "pass": true
-      },
-      "B": {
         "observed": "down",
         "expected": "down",
         "source_direction": "202.5",
+        "pass": true
+      },
+      "B": {
+        "observed": "up",
+        "expected": "up",
+        "source_direction": "337.5",
         "pass": true
       }
     },
@@ -219,15 +219,15 @@
       "axis": "vertical",
       "gate": "review",
       "A": {
-        "observed": "down",
-        "expected": "down",
-        "source_direction": "225",
-        "pass": true
-      },
-      "B": {
         "observed": "up",
         "expected": "up",
         "source_direction": "315",
+        "pass": true
+      },
+      "B": {
+        "observed": "down",
+        "expected": "down",
+        "source_direction": "225",
         "pass": true
       }
     },

@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"ambiguous","B":"ambiguous","reason":"Both show the visor high on the head with green lenses at roughly balanced left and right edges; neither has a clear lateral face direction."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-left","reason":"In both figures the left green lens is lower and more exposed, while the right lens is small and near the upper rim; the visible face reads toward the left."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A has its exposed green lens at the left end of the visor; B has its exposed lens at the right end."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"The single prominent triangular lens sits at A's right face edge and B's left face edge."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's lowered visor exposes a green triangle on the left; B's lowered visor exposes it on the right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's low visor and visible triangle terminate toward the right; B's visible triangle is at the lower left edge."},
+    {"pair":"horizontal-7","A":"ambiguous","B":"ambiguous","reason":"Both visors sit along the bottom rim with green tips visible at both sides; the nearly balanced tips do not establish left versus right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A's visor arches across the crown with lenses near the upper edge; B's visor and lenses hug the lower edge near the neck."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A has green lenses at the bottom rim; B has the visor and lenses high on the head."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's visible triangle and slit lie below the head midpoint; B's visor and green lenses are above it."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A's visor rises to a green lens above the head midpoint; B's lens and slit sit below the midpoint."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's visor follows the upper crown; B's visor follows the bottom of the head with green tips beside the neck."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A shows a low visor and green tip at the bottom left; B's visor and lenses are high across the crown."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's left green lens and slit are above the head midpoint; B's left green lens and slit are below it."}
+  ]
+}

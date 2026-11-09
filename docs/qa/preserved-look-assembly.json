@@ -1,0 +1,5 @@
+{
+  "method": "bundled load_base_rows, atlas_cell, validate_normalized_look_cells, paste_look_cells, clear_transparent_rgb",
+  "registration": "Existing approved look cells reused without rescaling or repositioning",
+  "source": "original pre-cleanup atlas; final cleanup applied exactly once"
+}

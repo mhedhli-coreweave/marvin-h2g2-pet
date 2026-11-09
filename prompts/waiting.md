@@ -1,7 +1,17 @@
-Use case: stylized-concept. Production animation strip of Marvin, exactly SIX full-body poses in ONE horizontal left-to-right row.
-Input 1 is the authoritative generated character. Input 2 is both newer-movie Marvin identity references. Input 3 is ONLY six-slot spacing/padding guidance; omit all guide pixels.
-Character must stay exactly consistent: softly rendered pearl/ivory-white 3D toy robot, oversized spherical head, thin black visor seam and exactly two fixed inverted-triangle emerald-green lenses. No pupils, mouth, nose, brows or ears. Compact white torso/armor, black joint gaps and attached articulated hands, chunky white feet with black soles, tiny cyan chest dash. Soft diffuse lighting, same size and proportions throughout.
-State: WAITING FOR USER INPUT. Weary, reluctant, expectant half-shrug that says 'must I?' purely through posture. Frame 1: mostly neutral tired front-facing pose, both arms low. Frame 2: elbows begin bending, black palms turn upward at waist. Frame 3: both palms partly up, the hand on viewer-right slightly more pronounced and extended, head tilts gently, mild asymmetrical shoulder half-shrug. Frame 4: holds this patient questioning pose with tiny further head tilt. Frame 5: shoulders soften and hands lower. Frame 6: returns almost to frame 1 for a quiet loop.
-Hands stay BELOW CHEST throughout: no high wave, no facepalm, no pointing at face. Hands are attached continuously to wrists/forearms, all fingers joined to palms. No props, UI panels or marks. Both feet remain planted on the exact same baseline, body anchored front-facing, no walking/jumping.
-Composition: SIX complete centered separated figures, one in each invisible equal-width slot of a wide landscape strip; uniform scale, camera and lighting. Generous margins around head, feet, fingers; no overlap or clipping.
-Background perfectly flat pure magenta #FF00FF. No floor, shadows, bloom, glow outside lenses, text, labels, borders, guide marks, watermarks, dust or detached effects.
+Generate exactly ONE horizontal SIX-frame full-body animation strip of Marvin the Paranoid Android, matching the existing pet references. State: WAITING FOR INPUT, an emphatically reluctant, sarcastic SHRUG. This must be obvious at small desktop-pet size.
+
+References: image 1 existing fetched atlas is identity reference only, not an output layout. Image 2 is canonical design detail. Image 3 contains the original movie references. Image 4 is a six-slot spacing guide only; omit all guide markings.
+
+SAME robot in every frame: huge pearl-white spherical helmet with thin black visor seam and exactly two fixed inverted triangular eye-lens recesses, rounded compact white torso, tiny cyan chest light, black joints and articulated hands, short white legs and broad white wedge feet. Exact same head/body size, materials, soft upper-left light and front camera. Feet stay planted in precisely the same positions and floor baseline.
+
+Left-to-right performance:
+1. Arms low and limp, shoulders slumped, head slightly bowed; triangular lenses GREEN ON.
+2. Lift BOTH shoulders nearly against the helmet and bend BOTH elbows OUT widely. BOTH hands palm-up around chest height: a large questioning shrug, not a wave.
+3. HOLD that conspicuous wide palm-up shrug; cock helmet about 20 degrees to one side with a bothered attitude. BOTH triangular eye lights are COMPLETELY OFF: dark charcoal glass, no green.
+4. STILL HOLD the same big shrug, shoulders compressed up near helmet; tilt helmet to the opposite side. BOTH triangular lens recesses remain completely DARK charcoal.
+5. One arm drops wearily, the other stays palm-up as if asking 'Well?'; both eye lights reluctantly return GREEN.
+6. Both arms settle low, shoulders sag, head bows toward the first pose, GREEN lights on.
+
+Make the shrug silhouette broad and very readable: elbows clearly away from body, attached forearms horizontal to angled up, palms face the ceiling. Hands should stay at or below shoulder height; nothing over the head. The contrast between low arms and the held wide shrug must be substantial. No human eyelids, pupils, eyebrows, nose or mouth. Preserve physical triangular lens shapes during blackouts.
+
+Exactly six complete, separated poses in one row. Each fits in a generously padded invisible equal-width slot; leave enough pure magenta between wide elbows that neighboring robots never touch. Flat pure #FF00FF background. No floor, ground shadow, props, text, labels, symbols, punctuation, guide lines, borders, smoke, tears, motion marks, glow or detached effects. Do not make a multirow sprite atlas.

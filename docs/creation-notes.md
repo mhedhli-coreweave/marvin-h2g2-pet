@@ -8,6 +8,14 @@ Marvin’s personality is expressed through hesitant gestures, heavy feet, slump
 
 ## Source workflow
 
+### More angst revision
+
+The revision keeps the existing pet's identity and replaces all nine action strips. The original stored sheet, canonical base, and user references guided each new generated strip. Gestures were expanded to read at pet scale: a broad reluctant shrug, a sustained double facepalm, limp acknowledgments, heavy steps, and real eye-light blackouts. Review slowly extends an index finger, narrows the green lenses, turns the head right-left-right as if saying “no,” and switches the lights off while lowering the hand.
+
+The final sixteen look-direction cells are unchanged, verified pixel for pixel. Their original raw cells were appended before the new sheet's single cleanup pass. The complete original animation set, sources, and QA evidence are preserved as a selectable alternative. Preview hold durations are a presentation setting; held gestures and dark eyes are also encoded in successive sprite frames because the Pets host controls its own playback.
+
+### Original creation and common assembly
+
 A canonical base was generated first. Each of the nine action strips was generated separately from that base and the identity references. The leftward gait was generated independently to retain screen-fixed lighting. The four cardinal head poses anchored two coherent eight-frame direction strips.
 
 The bundled Pets pipeline extracted connected pose groups with shared row scale. Stationary poses were registered by the planted feet. Non-jump rows were reduced together to reserve airborne headroom; the jump retained its original vertical displacement. The final sheet received one chroma-edge cleanup pass.

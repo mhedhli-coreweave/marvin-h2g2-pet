@@ -1,18 +1,88 @@
 {
   "pairs": [
-    {"pair":"horizontal-1","A":"ambiguous","B":"ambiguous","reason":"Both show two green lenses near the upper rim and an almost centered visor arch; the visible face does not establish a reliable horizontal direction."},
-    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's visor reaches the right rim with its right lens near that edge; B's left lens and visor wrap farther toward the left rim."},
-    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A has its visible green lens at the left end of the visor; B has its visible lens at the right end."},
-    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's green lens and visor opening occupy the right side of the head; B's occupy the left side."},
-    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's low visor exposes a green lens near the left rim; B's exposes a green lens near the right rim."},
-    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's green lens is visible at the lower right end of the visor; B's strongest visible green lens is at the lower left rim."},
-    {"pair":"horizontal-7","A":"ambiguous","B":"ambiguous","reason":"Both faces sit along the bottom rim with small green slivers on both sides and nearly centered visor curves; horizontal direction is unclear."},
-    {"pair":"vertical-1","A":"up","B":"down","reason":"A's visor and both green lenses sit at the top rim; B's sit at the bottom rim near the neck."},
-    {"pair":"vertical-2","A":"down","B":"up","reason":"A's green lenses and visor curve hug the bottom of the head; B's lie across the upper portion."},
-    {"pair":"vertical-3","A":"down","B":"up","reason":"A's visible lens and visor lie low on the head; B's green lenses and visor lie high on the head."},
-    {"pair":"vertical-4","A":"up","B":"down","reason":"A's right green lens sits above the head's midpoint; B's right lens and visor sit below the midpoint."},
-    {"pair":"vertical-5","A":"up","B":"down","reason":"A's visor arch and green lenses follow the upper rim; B's follow the lower rim."},
-    {"pair":"vertical-6","A":"down","B":"up","reason":"A's visor and green lens sit along the lower rim; B's visor and lenses are high across the forehead."},
-    {"pair":"vertical-7","A":"up","B":"down","reason":"A's left green lens and visor are in the upper half of the head; B's are in the lower half."}
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both show two lenses at the upper rim of a nearly symmetric head. The visible visor placement does not establish a reliable horizontal turn."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's visor and lenses favor the upper right, with its right lens closer to the head edge. B exposes its left lens at the left edge while the other lens is more inset."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible triangular lens sits on the left end of the visor; B's visible triangular lens sits at the right head edge."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows the lens and visor concentrated on the left side of the head. B shows the mirrored concentration at the right edge."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's low visor terminates at a left-side lens, whereas B's low visor exposes a lens at the right edge."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A exposes one lens along the lower right rim and a visor extending inward from it. B exposes the clearest lens along the lower left rim."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both show a centered low visor with small lenses on both lower sides. Any horizontal asymmetry is too slight to assign confidently."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visor and lenses lie along the top of the head; B's are tucked along the bottom rim."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes its visor and lenses at the lower head edge, while B exposes them across the upper head."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible lens and visor are low on the head. B's visor and both lenses sit high on the head."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visor and right-side lens sit below the head midpoint. B's visor rises across the upper half toward its right-side lens."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's lenses are visible at the bottom rim. B's lenses and visor are at the top rim."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "In the isolated crop, A's visor and lenses sit high on its head. B's visible lens and visor are tucked along the bottom rim of its head."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A's left lens and visor sit above the head midpoint; B's left lens and visor sit below it."
+    }
   ]
 }

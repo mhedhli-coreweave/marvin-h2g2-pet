@@ -1,18 +1,88 @@
 {
   "pairs": [
-    {"pair":"horizontal-1","A":"ambiguous","B":"ambiguous","reason":"Both faces show a high visor arc with green lenses near both upper edges; neither has a clear lateral displacement or decisive left/right asymmetry."},
-    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's visor reaches the upper-right rim and its right green lens sits close to that rim; B's left green lens and visor terminate at the left rim, with the opposite lens pulled inward."},
-    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A shows a single green lens at the left edge with the visor trailing inward to the right; B shows the green lens at the right edge with the visor trailing leftward."},
-    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's sole prominent triangular lens is at the right rim; B's is at the left rim. Each visor extends inward from that lens."},
-    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's visible green triangle is on the lower-left face edge, while B's is on the lower-right edge; the visor lies inward of each lens."},
-    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A has a clear green lens near the lower-right rim and a visor extending leftward; B's prominent green sliver is at the lower-left rim."},
-    {"pair":"horizontal-7","A":"ambiguous","B":"ambiguous","reason":"Both show a low, nearly centered visor curve with green slivers on both sides. The slight size differences do not give me a confident lateral direction."},
-    {"pair":"vertical-1","A":"up","B":"down","reason":"A's visor and lenses sit near the top of the head; B's sit along the bottom rim above the neck."},
-    {"pair":"vertical-2","A":"down","B":"up","reason":"A's green lens slivers and visor curve hug the lower head edge, while B's visor arch and lenses occupy the upper edge."},
-    {"pair":"vertical-3","A":"down","B":"up","reason":"A's single visible lens and visor are below the head midpoint; B's lenses and visor are high across the forehead area."},
-    {"pair":"vertical-4","A":"up","B":"down","reason":"A's visor rises toward its green lens above the head midpoint; B's visor and green lens sit below the midpoint."},
-    {"pair":"vertical-5","A":"up","B":"down","reason":"A shows the visor arch and lenses across the upper rim; B shows only the low visor curve and green slivers along the bottom rim."},
-    {"pair":"vertical-6","A":"down","B":"up","reason":"A's visor and lens slivers sit against the bottom edge above the neck; B's green lenses and visor arch are near the top."},
-    {"pair":"vertical-7","A":"up","B":"down","reason":"A's left green lens and visor line are slightly above the head midpoint; B's left green lens and visor line are clearly below it."}
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both heads show two lenses approximately symmetrically spaced across the upper visor; neither has a clear lateral facing direction."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's visor and lens arrangement is displaced toward the right side of the head; B's corresponding arrangement is displaced toward the left. The lateral distinction is subtle."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible triangular lens and visor termination sit on the left side of the head; B's visible lens and visor termination sit on the right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The single visible triangular lens is on the left in A and on the right in B, with the visor extending inward from that side."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows its low visor and triangular lens toward the left edge; B shows the equivalent features toward the right edge."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's exposed low triangular lens sits at the right edge of the head; B's exposed low triangular lens sits at the left edge."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both heads have a low visor with green lens tips near both outer edges, appearing approximately centered without a clear lateral turn."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visor and lenses occupy the upper part of the head; B's visor and lenses are at the bottom edge."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's lens tips and visor sit along the bottom of the head; B's visor and lenses sit near the top."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible lens and visor are low on the head; B's lenses and visor arc are high on the head."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's right-hand triangular lens and visor lie below the head midpoint; B's corresponding lens and visor lie above the midpoint."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes its visor at the bottom edge of the head; B exposes its visor and lenses near the crown."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "In the isolated pair crop, A's visor and lenses are high on the head; B's visor and visible lens are at the bottom edge of the head."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A's left lens and visor lie above the head midpoint; B's left lens and visor lie below it."
+    }
   ]
 }

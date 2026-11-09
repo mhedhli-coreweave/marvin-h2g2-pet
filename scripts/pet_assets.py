@@ -27,6 +27,25 @@ def load_manifest(root=ROOT):
     return manifest
 
 
+def load_variant(variant="angst", root=ROOT):
+    """Resolve one complete approved set, keeping every source inside the repo."""
+    manifest = load_manifest(root)
+    if variant == "angst":
+        return manifest
+    if variant != "original":
+        raise ValueError(f"Unknown animation variant: {variant}")
+    relative = Path(manifest["variants"][variant]["manifest"])
+    folder = (root / relative).resolve().parent
+    if not folder.is_relative_to(root.resolve()):
+        raise ValueError("Variant manifests must remain inside the repository")
+    original = load_manifest(folder)
+    prefix = folder.relative_to(root.resolve())
+    original["spritesheet"] = str(prefix / original["spritesheet"])
+    for row in original["rows"]:
+        row["frames"] = [str(prefix / path) for path in row["frames"]]
+    return original
+
+
 def build_from_frames(manifest, root=ROOT):
     atlas = Image.new("RGBA", SIZE)
     for row in manifest["rows"]:
