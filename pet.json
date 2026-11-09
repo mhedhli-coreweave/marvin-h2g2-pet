@@ -1,0 +1,263 @@
+{
+  "name": "Marvin",
+  "description": "A weary, sardonic android with very little enthusiasm for your tasks.",
+  "sprite_version": 2,
+  "spritesheet": "assets/spritesheet.png",
+  "columns": 8,
+  "cell_width": 192,
+  "cell_height": 208,
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": [
+        "assets/frames/idle/00.png",
+        "assets/frames/idle/01.png",
+        "assets/frames/idle/02.png",
+        "assets/frames/idle/03.png",
+        "assets/frames/idle/04.png",
+        "assets/frames/idle/05.png"
+      ],
+      "durations_ms": [
+        420,
+        260,
+        300,
+        400,
+        300,
+        400
+      ]
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": [
+        "assets/frames/running-right/00.png",
+        "assets/frames/running-right/01.png",
+        "assets/frames/running-right/02.png",
+        "assets/frames/running-right/03.png",
+        "assets/frames/running-right/04.png",
+        "assets/frames/running-right/05.png",
+        "assets/frames/running-right/06.png",
+        "assets/frames/running-right/07.png"
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ]
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": [
+        "assets/frames/running-left/00.png",
+        "assets/frames/running-left/01.png",
+        "assets/frames/running-left/02.png",
+        "assets/frames/running-left/03.png",
+        "assets/frames/running-left/04.png",
+        "assets/frames/running-left/05.png",
+        "assets/frames/running-left/06.png",
+        "assets/frames/running-left/07.png"
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ]
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": [
+        "assets/frames/waving/00.png",
+        "assets/frames/waving/01.png",
+        "assets/frames/waving/02.png",
+        "assets/frames/waving/03.png"
+      ],
+      "durations_ms": [
+        400,
+        300,
+        340,
+        420
+      ]
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": [
+        "assets/frames/jumping/00.png",
+        "assets/frames/jumping/01.png",
+        "assets/frames/jumping/02.png",
+        "assets/frames/jumping/03.png",
+        "assets/frames/jumping/04.png"
+      ],
+      "durations_ms": [
+        300,
+        140,
+        180,
+        140,
+        400
+      ]
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": [
+        "assets/frames/failed/00.png",
+        "assets/frames/failed/01.png",
+        "assets/frames/failed/02.png",
+        "assets/frames/failed/03.png",
+        "assets/frames/failed/04.png",
+        "assets/frames/failed/05.png",
+        "assets/frames/failed/06.png",
+        "assets/frames/failed/07.png"
+      ],
+      "durations_ms": [
+        220,
+        220,
+        260,
+        300,
+        420,
+        400,
+        280,
+        320
+      ]
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": [
+        "assets/frames/waiting/00.png",
+        "assets/frames/waiting/01.png",
+        "assets/frames/waiting/02.png",
+        "assets/frames/waiting/03.png",
+        "assets/frames/waiting/04.png",
+        "assets/frames/waiting/05.png"
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ]
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": [
+        "assets/frames/running/00.png",
+        "assets/frames/running/01.png",
+        "assets/frames/running/02.png",
+        "assets/frames/running/03.png",
+        "assets/frames/running/04.png",
+        "assets/frames/running/05.png"
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ]
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": [
+        "assets/frames/review/00.png",
+        "assets/frames/review/01.png",
+        "assets/frames/review/02.png",
+        "assets/frames/review/03.png",
+        "assets/frames/review/04.png",
+        "assets/frames/review/05.png"
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250,
+        250,
+        250
+      ]
+    },
+    {
+      "state": "look-000-157.5",
+      "row": 9,
+      "frames": [
+        "assets/frames/look-000-157.5/00.png",
+        "assets/frames/look-000-157.5/01.png",
+        "assets/frames/look-000-157.5/02.png",
+        "assets/frames/look-000-157.5/03.png",
+        "assets/frames/look-000-157.5/04.png",
+        "assets/frames/look-000-157.5/05.png",
+        "assets/frames/look-000-157.5/06.png",
+        "assets/frames/look-000-157.5/07.png"
+      ],
+      "durations_ms": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200
+      ]
+    },
+    {
+      "state": "look-180-337.5",
+      "row": 10,
+      "frames": [
+        "assets/frames/look-180-337.5/00.png",
+        "assets/frames/look-180-337.5/01.png",
+        "assets/frames/look-180-337.5/02.png",
+        "assets/frames/look-180-337.5/03.png",
+        "assets/frames/look-180-337.5/04.png",
+        "assets/frames/look-180-337.5/05.png",
+        "assets/frames/look-180-337.5/06.png",
+        "assets/frames/look-180-337.5/07.png"
+      ],
+      "durations_ms": [
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200
+      ]
+    }
+  ],
+  "look_directions_degrees": [
+    0.0,
+    22.5,
+    45.0,
+    67.5,
+    90.0,
+    112.5,
+    135.0,
+    157.5,
+    180.0,
+    202.5,
+    225.0,
+    247.5,
+    270.0,
+    292.5,
+    315.0,
+    337.5
+  ]
+}

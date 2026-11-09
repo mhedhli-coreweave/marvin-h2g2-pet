@@ -1,0 +1,16 @@
+Create ONE coherent horizontal strip of exactly EIGHT full-body Marvin head-direction poses. This is the LEFT HALF of the look-direction circle, continuing the attached row9.
+References: image1 canonical design plus both newer-movie originals; image2 approved animations for identity only; image3 approved cardinal anchors in order UP,RIGHT,DOWN,LEFT; image4 completed row9 fixes style, source canvas, figure size, baseline and camera; image5 invisible eight-slot spacing guide (do not draw guide).
+Match image4's 2172x724 wide-strip proportions and SAME character pixel height, body positions, head size and foot baseline. Do not enlarge figures. Generate all eight together as one coherent family. Same upper-left diffuse lighting remains fixed on screen; do not mirror lighting.
+Marvin is a softly rendered pearl-white 3D robot with huge spherical head, rigid black visor seam and fixed inverted-triangle green eye lenses. Preserve white compact torso/armor, black joints/attached hands, broad white feet with black soles, tiny cyan chest light. No pupils, mouth, nose, brows or new features.
+All EIGHT bodies remain identical FRONT-FACING, feet planted on shared baseline, chest centered, arms hanging, shoulders square. ONLY spherical HEAD pitches/yaws naturally at neck. The visor/lenses move with the rigid shell; no independent eye sliding, shape distortion or head roll.
+Exactly this left-to-right clockwise arc:
+1 DOWN (180): match approved down cardinal: deep forward bow, large crown dominates; both green lens slivers and curved visor very LOW at bottom rim. Continue directly from last pose of row9.
+2 mostly DOWN with slight SCREEN-LEFT yaw (202.5): still very low visor and dominant crown, but lens group subtly biased toward viewer-left; asymmetric foreshortening.
+3 DOWN-LEFT diagonal (225): medium left yaw and clear deep forward pitch, green near lens low on LEFT half, far eye increasingly occluded.
+4 mostly SCREEN-LEFT with slight DOWN (247.5): strong left yaw, visible near lens on LEFT half; visor still lower than neutral leftcardinal.
+5 SCREEN-LEFT (270): match approved leftcardinal: head face/lens group unmistakably on LEFT half, near triangular lens visible, far lens occluded. Body remains frontal.
+6 mostly SCREEN-LEFT with slight UP (292.5): same left yaw but head tilts back, visor/lens group distinctly higher than pose5.
+7 UP-LEFT diagonal (315): medium left yaw with strong back pitch; visor/lenses high and biased left, broad lowerface exposed.
+8 mostly UP with slight SCREEN-LEFT yaw (337.5): nearly approved UP cardinal, visor arcing HIGH above headcenter, both green triangles returning into view with subtle leftward asymmetry. Broad lowerface/underside. Must flow in one small even step into row9's first UP pose.
+The progression is down, down-nearleft, down-left, left-down, left, left-up, up-left, up-nearfrontal. No screen-right gaze, no neutralfront pause, no wrong-quadrant reversals. Near-vertical poses may use subtle horizontal cues, but middle diagonals show both axes. Keep same sphere size and silhouette quality throughout.
+Eight complete centered separated silhouettes with generous margins, no overlaps/clipping, same standing lower-body baseline. Flat pure #FF00FF magenta background. No floor, shadows, markings, guide lines, labels, arrows, text, grid, borders, external glow, props or detached effects.

@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "review_type": "visual review plus bundled frame inspection",
+  "states": {
+    "idle": "Six poses form a small head/shoulder sag and recovery with planted feet.",
+    "running-right": "Eight screen-right poses alternate contacts and passing feet; head bobs with weight.",
+    "running-left": "Separately generated left-facing gait retains screen-fixed lighting and alternating legs.",
+    "waving": "Four connected hand poses show reluctant raise, wrist tilt, and lowering; foot anchoring corrects silhouette centering.",
+    "jumping": "Five poses preserve source vertical displacement. Crouch and landing share floor; both feet clearly lift at apex.",
+    "failed": "Eight poses rise into a connected-hand facepalm and deep bow, then recover.",
+    "waiting": "Six poses open palms at waist and tilt the head questioningly, without a wave.",
+    "running": "Six stationary thinking poses keep a finger at temple while the opposite hand counts near chest.",
+    "review": "Six poses point across imagined work and nod, distinct from facepalm and temple-touch."
+  },
+  "registration": "Shared 0.87 scale for non-jump rows about floor y=203, native extracted jump row preserves airborne headroom; planted-foot midpoint anchors stationary rows.",
+  "observed_previews": "Bundled per-state GIFs, standard contact sheet, and interactive local preview with hop frame stepping and gesture playback.",
+  "remaining_cleanup": "Final atlas will receive one edge-local magenta despill pass."
+}
