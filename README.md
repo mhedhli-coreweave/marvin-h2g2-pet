@@ -2,6 +2,8 @@
 
 A softly rendered 3D companion inspired by the newer movie adaptation of Marvin the Paranoid Android from *The Hitchhiker’s Guide to the Galaxy*. Huge pearl-white head, green triangular lenses, heavy feet, and very little enthusiasm.
 
+[Open the live preview](https://mhedhli-coreweave.github.io/marvin-h2g2-pet/) to try both animation sets and download either sprite sheet.
+
 ![Marvin animation preview](assets/previews/all-states.gif)
 
 ## Personality and motion
@@ -31,6 +33,8 @@ python3 -m http.server 8080
 ```
 
 Open <http://localhost:8080>. The preview has no external dependencies or analytics.
+
+The public preview is served by GitHub Pages from the root of `main`. The `.nojekyll` file keeps the HTML, JSON, and animation assets unchanged. Pushing to `main` updates the preview automatically; changing the active ChatGPT Pet still requires a separate Pets update.
 
 ## Rebuild and check
 
